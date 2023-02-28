@@ -1,0 +1,18 @@
+Hello, Stas! What would you like to do today?
+Create a new meeting.
+Let's create a meeting. What is it about?
+Cars.
+OK, so cars, huh?
+On which day is it?
+Are you sure you are saying it correctly? Try again!
+On Monday.
+OK, Monday sounds like a good day!
+Will it take the whole day?
+No.
+What time is your meeting?
+10 in the morning.
+OK, do you want me to create a meeting titled cars on Monday at 10:00?
+Yes.
+OK, your meeting has been created!"
+Who is Kennedy?
+John Fitzgerald Kennedy, often referred to by his initials JFK, was an American politician who served as the 35th president of the United States from 1961 until his assassination in 1963. He was the youngest person to assume the presidency by election and the youngest president at the end of his tenure.
